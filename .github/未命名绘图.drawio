@@ -1,11 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2024-01-07T08:03:14.104Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-c0UcHg8BINjhF8cOoYl" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-07T11:29:41.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="aIpdrAhCRtBNuwArvFMS" version="22.1.17" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WrjN6Kh_lHQjiHGwq4u3-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="WrjN6Kh_lHQjiHGwq4u3-1" value="酒店员工" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WrjN6Kh_lHQjiHGwq4u3-2" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;酒店管理&lt;span style=&quot;&quot;&gt;系统&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WrjN6Kh_lHQjiHGwq4u3-3" value="&lt;b&gt;顾客&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="770" y="290" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WrjN6Kh_lHQjiHGwq4u3-6" value="增加、删除、编辑、查看客房&lt;br&gt;核对订单&lt;br&gt;员工登录&lt;br&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="320.16" as="sourcePoint" />
+            <mxPoint x="490" y="320.16" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="319.66" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WrjN6Kh_lHQjiHGwq4u3-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="349.31" as="sourcePoint" />
+            <mxPoint x="770" y="349.81" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="349.31" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WrjN6Kh_lHQjiHGwq4u3-10" value="会员体系&lt;br&gt;会员服务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WrjN6Kh_lHQjiHGwq4u3-7">
+          <mxGeometry x="-0.0561" relative="1" as="geometry">
+            <mxPoint x="5" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WrjN6Kh_lHQjiHGwq4u3-9" value="酒店反馈&lt;br&gt;客房预定&lt;br&gt;购买会员&lt;br&gt;客户登录&lt;br&gt;订房、续房、退房&lt;br&gt;餐饮订单&lt;br&gt;休闲娱乐订单" style="endArrow=classic;html=1;rounded=0;exitX=-0.004;exitY=0.155;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0045" y="-20" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="769.52" y="299.99999999999994" as="sourcePoint" />
+            <mxPoint x="610" y="300.7" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="300.7" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WrjN6Kh_lHQjiHGwq4u3-11" value="OTA平台" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="490" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WrjN6Kh_lHQjiHGwq4u3-12" value="提供订单&lt;br&gt;进行抽成" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry x="-0.1667" y="1" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="170" as="sourcePoint" />
+            <mxPoint x="520" y="290" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WrjN6Kh_lHQjiHGwq4u3-15" value="提供单价&lt;br&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0.656;entryY=1.068;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.656;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WrjN6Kh_lHQjiHGwq4u3-2">
+          <mxGeometry x="0.1667" y="-1" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="285.92" as="sourcePoint" />
+            <mxPoint x="568.72" y="170.00000000000003" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WrjN6Kh_lHQjiHGwq4u3-16" value="经理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="490" y="425" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WrjN6Kh_lHQjiHGwq4u3-17" value="财务报表" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WrjN6Kh_lHQjiHGwq4u3-2" target="WrjN6Kh_lHQjiHGwq4u3-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="525" y="410" as="sourcePoint" />
+            <mxPoint x="575" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WrjN6Kh_lHQjiHGwq4u3-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.573;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="571.24" y="425.48" as="sourcePoint" />
+            <mxPoint x="570" y="350.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WrjN6Kh_lHQjiHGwq4u3-19" value="制定房价&lt;br&gt;员工管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WrjN6Kh_lHQjiHGwq4u3-18">
+          <mxGeometry x="0.267" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" y="12" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
